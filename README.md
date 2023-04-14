@@ -1,6 +1,6 @@
 # JSON-CBOR Converter with GUI using PyQt5
 
-This desktop application allows for bidirectional conversion of data between JSON and CBOR formats using a graphical user interface developed with PyQt5.
+This desktop application allows for bidirectional conversion of data between JSON and CBOR formats using a graphical user interface developed with PyQt5. The interface is inspired by the one found on cbor.me.
 
 ## System Requirements
 - Python 3.x
