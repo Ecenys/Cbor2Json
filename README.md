@@ -17,3 +17,6 @@ This desktop application allows for bidirectional conversion of data between JSO
 3. Click the corresponding arrow button to perform the conversion.
 4. The converted data will be displayed in the other output field.
 5. If an error occurs during conversion, the error message will be displayed in the respective output field.
+
+## Images
+![imagen](https://user-images.githubusercontent.com/27973600/232090274-f3398104-e3d0-4abf-aa1a-7c5e386bcf88.png)
